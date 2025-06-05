@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "218651765973",
+    "firebase_url": "https://kotlinfirebaseauthentica-bc54f-default-rtdb.firebaseio.com",
+    "project_id": "kotlinfirebaseauthentica-bc54f",
+    "storage_bucket": "kotlinfirebaseauthentica-bc54f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218651765973:android:3ef4329f1c712b0cc6065c",
+        "android_client_info": {
+          "package_name": "com.rajdeep.kotlinfirebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HIc7kZPmiie6Igejc_uGMQH41_cD77s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218651765973:android:7bfa0c2ef00a8bf4c6065c",
+        "android_client_info": {
+          "package_name": "com.rajdeep.kotlinrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HIc7kZPmiie6Igejc_uGMQH41_cD77s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218651765973:android:cb3c6bc3c4c55566c6065c",
+        "android_client_info": {
+          "package_name": "com.rajdeep.kotlinretriverealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_HIc7kZPmiie6Igejc_uGMQH41_cD77s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
